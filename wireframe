@@ -1,0 +1,77 @@
+for Practicing Languages and other Difficult Conversations you want to practice with Real time Video AI
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice with Real Time AI - Make Perfect Practice</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .dot {
+            width: 20px;
+            height: 20px;
+            background-color: #007bff;
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+
+        .instructions {
+            font-size: 16px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .scrolling-banner {
+            font-size: 18px;
+            text-align: center;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        .scrolling-content {
+            animation: scrollBanner 10s linear infinite;
+        }
+
+        @keyframes scrollBanner {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="title">Practice with Real Time AI - Make Perfect Practice</div>
+    <div class="dot"></div>
+    <div class="instructions">
+        Begin speaking while looking at the dot. Real-time AI will generate a simulation appropriate for the context of what you're practicing and respond. Use the space above to enhance your learning experience by gaining comfort in the real-time simulated experience you are practicing to master in the real world.
+    </div>
+    <div class="scrolling-banner">
+        <div class="scrolling-content">
+            Examples: Real-time language practice - Speaking to an audience - Job interview - Holding good eye contact during uncomfortable conversations - Being a more confident sounding speaker
+        </div>
+    </div>
+</body>
+</html>
